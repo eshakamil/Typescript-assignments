@@ -1,0 +1,1 @@
+console.log("quaid-e-azam said,work work & work")
